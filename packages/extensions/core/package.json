@@ -94,7 +94,7 @@
     "vscode-languageserver": "9.0.1",
     "webpack-cli": "~6.0.1",
     "webpack-node-externals": "~3.0.0",
-    "webpack": "~5.99.8",
+    "webpack": "~5.105.2",
     "yaml-ast-parser": "0.0.43"
   }
 }
