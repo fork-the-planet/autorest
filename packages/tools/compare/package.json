@@ -31,7 +31,7 @@
   "dependencies": {
     "autorest": "workspace:~3.8.0",
     "chalk": "^4.1.0",
-    "diff": "^5.1.0",
+    "diff": "^8.0.3",
     "js-yaml": "~4.1.0",
     "source-map-support": "^0.5.19",
     "tree-sitter": "^0.22.4",
